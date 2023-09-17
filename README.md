@@ -1,4 +1,7 @@
-# CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
+ #Content Deformation
+ need 10Gb graphic card to run mother load
+
+ Fields for Temp Consistent Video Processing
 
 <img src='docs/teaser.gif'></img>
 
@@ -30,8 +33,8 @@ For additional Python libraries, please install with
 ```shell
 pip install -r requirements.txt
 ```
-
-Our code also depends on [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn).
+#Inportant
+ Code also depends on [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn).
 See [this repository](https://github.com/NVlabs/tiny-cuda-nn#pytorch-extension)
 for Pytorch extension install instructions.
 
